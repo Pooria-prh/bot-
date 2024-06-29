@@ -1,5 +1,5 @@
-# Cloned bot: Djdisiwlwjdkdbot - chat bot
-It is repository for chat bot: [@Cloned bot: Djdisiwlwjdkdbot](https://t.me/Cloned bot: Djdisiwlwjdkdbot)
+# gsglagmagbot - chat bot
+It is repository for chat bot: [@gsglagmagbot](https://t.me/gsglagmagbot)
 
 ## What it is?
 This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.
